@@ -1,0 +1,6 @@
+Index: sys/dev/atkbdc/atkbd.c
+Index: sys/dev/atkbdc/atkbdc.c
+Index: sys/dev/atkbdc/atkbdcreg.h
+Index: sys/dev/atkbdc/psm.c
+Index: sys/sys/mouse.h
+Index: usr.sbin/moused/moused.c
