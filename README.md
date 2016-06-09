@@ -12,7 +12,4 @@ https://lists.freebsd.org/pipermail/freebsd-amd64/2015-December/016199.html
 
 https://lists.freebsd.org/pipermail/freebsd-mobile/2015-September/013327.html
 
-Special Thanks to 
-Vladimir Kondratyev
-and
-Raphael 'kena' Poss
+Special Thanks to Vladimir Kondratyev, and Raphael 'kena' Poss.
