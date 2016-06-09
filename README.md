@@ -6,6 +6,11 @@ Code in this repo was originally suggested as a patch against 11 current in 2015
 
 Code presented compiles and provides support for elantech touchpads, as while they claim to be synaptics compatible: they actually use a slightly different protocol, and without this patch psm is fooled into treating them as a generic ps2 mouse.
 
+After recompiling, a device hint must be placed into /boot/loader.conf
+`
+echo "hw.psm.elantech_support=1" >> /boot/loader.conf
+`
+
 Based on these patches:
 
 https://lists.freebsd.org/pipermail/freebsd-amd64/2015-December/016199.html
