@@ -19,3 +19,9 @@ https://lists.freebsd.org/pipermail/freebsd-amd64/2015-December/016199.html
 https://lists.freebsd.org/pipermail/freebsd-mobile/2015-September/013327.html
 
 Special Thanks to Vladimir Kondratyev, and Raphael 'kena' Poss.
+
+## Visibility
+
+If you use this patch, please comment on the associated bug ticket to raise its visibility.  It would be great to get official support for this common device.
+
+https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=205690
